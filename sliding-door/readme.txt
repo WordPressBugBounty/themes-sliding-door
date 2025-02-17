@@ -119,6 +119,10 @@ v1.6	made the background of the slider the same as the page background (imagemen
 3.4	Remove page links to plugin installer due to security vulnerability, changed text-domain.
 3.5 	Update copyright and new CC0 images
 3.6 	Update Screenshot
+3.7 	Update support URL
+3.9	Fix a problem that arose with the comment callbacks in function php - fallback to default. 
+	Remove highlight from sticky posts, increase font size.
+
 
 
 City Image
